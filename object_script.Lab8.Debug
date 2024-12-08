@@ -1,0 +1,10 @@
+debug/addpage.o
+debug/autpage.o
+debug/edipage.o
+debug/filpage.o
+debug/main.o
+debug/navpage.o
+debug/regpage.o
+debug/seapage.o
+debug/web_tests.o
+debug/moc_web_tests.o

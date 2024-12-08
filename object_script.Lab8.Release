@@ -1,0 +1,10 @@
+release/addpage.o
+release/autpage.o
+release/edipage.o
+release/filpage.o
+release/main.o
+release/navpage.o
+release/regpage.o
+release/seapage.o
+release/web_tests.o
+release/moc_web_tests.o
